@@ -1,8 +1,6 @@
 # Roadmap
 
-## StudentPlus App 1.0
-
-### SRS
+## SRS
 
 * [ ] Actors
   * [ ] Program Coordinator
@@ -106,6 +104,8 @@
   * [ ] **Usability**
   * [ ] **Performance**
   * [ ] **Scalability**
+
+## StudentPlus App 1.0
 
 ### Frontend
 
