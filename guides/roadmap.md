@@ -56,21 +56,21 @@
     * [ ] **Manage course material**
     * [ ] **Manage assignments for students**
       * [ ] Year, semester, Course, Assignment name, description, due date, grade, attachment
-    * [ ] **Send Announcements to students**
-    * [ ] **View students’ attendance (Relese2)**
-    * [ ] **manage online Quiz (Relese2)**
-    * [ ] **manage online exam (Relese2)**
+    * [ ] **Send Announcements to students -R2**
+    * [ ] **View students’ attendance**
+    * [ ] **manage online Quiz**&#x20;
+    * [ ] **manage online exam**&#x20;
     * [ ] **Respond to inquiries (Relese2)**
     * [ ] **Manage blog (Relese3)**
   * [ ] **Student**
     * [ ] **Request program registration**
     * [ ] **View his timetable**
     * [ ] **Attend session**
-    * [ ] **Send inquiry for lecturer**
-    * [ ] **Send inquiry for coordinator**
+    * [ ] **Send inquiry for lecturer - R2**
+    * [ ] **Send inquiry for coordinator - R2**
     * [ ] **View/download course material**
     * [ ] **View/download course recordings**
-    * [ ] **Respond to assignment (Upload assignment solution)**
+    * [ ] **Respond to assignment (Upload assignment solution)**&#x20;
     * [ ] **View courses grades**
     * [ ] **Attend Exam/Quiz (Release2)**
     * [ ] **Pay online using Fawry gateway (release3)**
